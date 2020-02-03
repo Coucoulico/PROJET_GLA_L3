@@ -1,0 +1,35 @@
+Formulaire
+
+
+1-avez vous dormis : +8h/-8h
+2-avez vous fait : +30mn/-30mn
+3-le climat m’arrange : oui/non
+4-j’ai : +18ans/-18ans
+5-j'apprecis le prof : oui/non
+6-j'apprecis le module : oui/non
+
+
+Pour la semaine prochaine: 10/02/2020
+
+prototype de présentation
+1- mettre le titre du projet
+2-reprendre le cdc tel qu'il est livré
+3-faite en une interprétation en fonction des acteurs a exécuter
+4-expliciter les fonctionnalités du système/+diagramme des et de séquence
+5-contrainte et exigence du système
+6-limite du système.
+
+
+les contrainte du système:
+
+systeme temps reel
+contrainte accès dans la classe
+parallélisme des processus concurrentielle
+classe actif object actif
+interface et environnement
+aspect composant
+
+
+
+n’oublie pas les bip sur le diagramme des cas
+
